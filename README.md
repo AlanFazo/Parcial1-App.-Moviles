@@ -21,8 +21,8 @@ App móvil desarrollada con React Native y Expo.
 ### Pasos
 ```bash
 # 1. Clonar el repositorio
-git clone <https://github.com/AlanFazo/Parcial1-App.-Moviles>
-cd <lista-compras>
+git clone https://github.com/AlanFazo/Parcial1-App.-Moviles
+cd lista-compras
 
 # 2. Instalar dependencias
 npm install
